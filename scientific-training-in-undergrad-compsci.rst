@@ -79,6 +79,7 @@ Signatories
 -----------
 
 * David Fraser, Managing Director, `St James Software (Pty) Ltd <http://www.sjsoft.com/>`_.
+* David Campey, Founder Member, `Information Logistics <http://www.informationlogistics.co.za/>`_.
 
 Thanks
 ------
