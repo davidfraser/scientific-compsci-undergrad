@@ -52,12 +52,40 @@ Testing
 
 Testing is obviously a broad subject, encompassing a whole range of approaches.
 
-Test-Driven Development (TDD) is a practice which ensure engineering rigour when coding,
+Critically, testing is a way of experimentally verifying that a system behaves in a certain manner.
+
+Without testing, it is possible to work on code from day to day,
+with no clear awareness of what works or is broken,
+which amounts to moving from an unknown state to another unknown state.
+
+Exposure to the methods of testing (unit, integration, system, UI automation, acceptance) would provide a solid theoretical-practical framework for the Computer Science graduate.
+
+Test-Driven Development (TDD)
+-----------------------------
+
+.. epigraph::
+
+   The scientific method has effectively provided 
+   centuries of guidance in finding ways of understanding 
+   the world. A lack of good science leads to speculative 
+   theories that are not tested by experiments, have little 
+   predictive power and are not to be trusted. The strong 
+   correspondence between TDD and the scientific method 
+   indicates that, compared to TDD, traditional approaches 
+   to software development are inadequate. 
+
+   -- `Test Driven Development and the Scientific Method, 
+       Rick Mugridge, University of Auckland <http://agile2003.agilealliance.org/files/P6Paper.pdf>`_.
+
+Test-Driven Development (TDD), or Test-Driven Design, is a practice which ensures engineering rigour when coding,
 and has positive effects on the design of code, and the understanding of what coding is.
 
-While we do not all practice TDD universally, we feel that the experience of developing
-that TDD gives can transform individuals understanding of testing and the role that it
-plays in development.
+TDD is a hard skill to acquire, requiring deliberate practice. 
+This sort of practice is well-suited to the learning environment of a university course/practical.
+
+While we do not all practice TDD universally (largely due to lack of skill acquisition), 
+we feel that the experience of developing that TDD gives can transform individuals understanding 
+of the flow of testing and the role that it plays in development.
 
 Proposal
 --------
@@ -79,6 +107,7 @@ Signatories
 -----------
 
 * David Fraser, Managing Director, `St James Software (Pty) Ltd <http://www.sjsoft.com/>`_.
+* David Campey, Founder Member, `Information Logistics <http://www.informationlogistics.co.za/>`_.
 
 Thanks
 ------
