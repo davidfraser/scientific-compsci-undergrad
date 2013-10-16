@@ -2,7 +2,7 @@ Scientific Training in Undergraduate Computer Science
 =====================================================
 
 Background
-----------
+==========
 
 This document was formed out of the consensus of leaders in software development companies in Cape Town,
 and proposes some changes to the undergraduate Computer Science curriculum,
@@ -11,7 +11,7 @@ both in order to increase their relevant skills on graduation,
 and in order to improve the rate at which they develop as software engineers during their studies.
 
 Rationale
----------
+=========
 
 .. epigraph::
 
@@ -25,7 +25,7 @@ the combined practice of source code control and intelligently managed testing
 enable a software developer to engage in the process of software development scientifically.
 
 Source Control
---------------
+==============
 
 Source control systems minimally enable developers to:
 
@@ -48,7 +48,7 @@ would actually increase the amount of time available to students over the course
 by increasing their efficiency in project work.
 
 Testing
--------
+=======
 
 Testing is obviously a broad subject, encompassing a whole range of approaches.
 
@@ -88,7 +88,7 @@ we feel that the experience of developing that TDD gives can transform individua
 of the flow of testing and the role that it plays in development.
 
 Proposal
---------
+========
 
 We would like to take part in discussions with the University
 towards determining appropriate ways to develop students in the above areas
@@ -104,13 +104,13 @@ as part of the formal curriculum
 in order to support this change.
 
 Signatories
------------
+===========
 
 * David Fraser, Managing Director, `St James Software (Pty) Ltd <http://www.sjsoft.com/>`_.
 * David Campey, Founder Member, `Information Logistics <http://www.informationlogistics.co.za/>`_.
 
 Thanks
-------
+======
 
 Many thanks to Michelle Kuttel for engaging us on this topic at `PyConZA <http://za.pycon.org/>`_.
 
