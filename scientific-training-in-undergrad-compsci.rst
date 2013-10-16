@@ -58,7 +58,8 @@ Without testing, it is possible to work on code from day to day,
 with no clear awareness of what works or is broken,
 which amounts to moving from an unknown state to another unknown state.
 
-Exposure to the methods of testing (unit, integration, system, UI automation, acceptance) would provide a solid theoretical-practical framework for the Computer Science graduate.
+Exposure to the methods of testing (unit, integration, system, UI automation, acceptance)
+would provide a solid theoretical-practical framework for the Computer Science graduate.
 
 Test-Driven Development (TDD)
 -----------------------------
@@ -77,15 +78,19 @@ Test-Driven Development (TDD)
    -- `Test Driven Development and the Scientific Method, 
        Rick Mugridge, University of Auckland <http://agile2003.agilealliance.org/files/P6Paper.pdf>`_.
 
-Test-Driven Development (TDD), or Test-Driven Design, is a practice which ensures engineering rigour when coding,
-and has positive effects on the design of code, and the understanding of what coding is.
+Test-Driven Development (TDD), or Test-Driven Design,
+is a practice which ensures engineering rigour when coding,
+and has positive effects on the design of code,
+and the understanding of what coding is.
 
 TDD is a hard skill to acquire, requiring deliberate practice. 
 This sort of practice is well-suited to the learning environment of a university course/practical.
 
-While we do not all practice TDD universally (largely due to lack of skill acquisition), 
-we feel that the experience of developing that TDD gives can transform individuals understanding 
-of the flow of testing and the role that it plays in development.
+While we do not all practice TDD universally
+(largely due to lack of skill acquisition), 
+we feel that the experience of developing that TDD gives
+can transform individuals understanding of the flow of testing
+and the role that it plays in development.
 
 Proposal
 ========
