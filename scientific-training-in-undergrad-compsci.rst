@@ -87,7 +87,7 @@ TDD is a hard skill to acquire, requiring deliberate practice.
 This sort of practice is well-suited to the learning environment of a university course/practical.
 
 While we do not all practice TDD universally
-(largely due to lack of skill acquisition), 
+(for reasons including skill acquisition, large projects that lack tests, etc), 
 we feel that the experience of developing that TDD gives
 can transform individuals understanding of the flow of testing
 and the role that it plays in development.
