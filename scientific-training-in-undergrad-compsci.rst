@@ -24,6 +24,12 @@ In the experience of the undersigned,
 the combined practice of source code control and intelligently managed testing
 enable a software developer to engage in the process of software development scientifically.
 
+They are both largely practical skills
+that students should simply be expected to master and use
+as part of their practical work
+(in the same way that chemists and physicists
+are expected to keep lab records or do error analyses).
+
 Source Control
 ==============
 
@@ -46,6 +52,23 @@ even when working on simple projects during the course of their studies.
 We believe that using Source Control systems alone
 would actually increase the amount of time available to students over the course of their studies
 by increasing their efficiency in project work.
+
+Implementation
+--------------
+
+We propose that version control should become
+a required part of the practical submission process,
+from as soon as it is introduced
+(preferably at the first practical).
+
+This means updating the submission system
+and documentation on how to use it.
+We would be happy to help or consult with the appropriate people
+in order for this to be a smooth process.
+This would broadly involve:
+
+* setting up the repositories
+* adding repository hooks
 
 Testing
 =======
@@ -93,35 +116,15 @@ can transform individuals understanding of the flow of testing
 and the role that it plays in development.
 
 Implementation
-==============
+--------------
 
-Version control and testing are both largely practical skills
-that students should simply be expected to master and use
-as part of their practical work
-(the way chemists and physicists are expected to keep lab records or do error analyses).
+We propose that unit test writing should be introduced as part of a tutorial process.
 
-For version control to work
-it'd have to be a required part of the practical submission process.
-This means updating the submission system [#f1]_
-and documentation on how to use it.
-Once people are using version control
-I imagine there'll be a myriad other uses for it.
+This would require:
 
-Testing is a bit trickier.
-I think that also needs to largely just be part of the way tutorials happen.
-A first step would be to decide on a testing harness
-and to mandate a list of cases to test alongside each tutorial exercise.
-UCT's tutorial submission system currently runs some sort of automated marking on submitted exercises [#f2]_.
-I'm not sure how one automatically marks tests.
-Probably checking code coverage would be a good start.
-
-.. [#f1] Although I think the rewrite would largely be
-   chopping out whatever the current upload code is,
-   setting up the repositories
-   adding repository hooks
-   so probably not a huge effort.
-
-.. [#f2] In retrospect this is amusingly back-to-front.
+* deciding on a testing harness
+* mandating a list of cases to test alongside each tutorial exercise.
+* adjusting the automated markingto check that testing is being done (possibly by checking code coverage)
 
 Proposal
 ========
