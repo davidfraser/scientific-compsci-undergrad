@@ -143,6 +143,16 @@ as part of the formal curriculum
 (as we have been doing informally)
 in order to support this change.
 
+Further Development
+-------------------
+
+We have proposed the above as a minimal positive step in the right direction.
+Other possible steps which could be discussed subsequently include:
+
+* Inclusion of these topics in the Software Engineering course material
+* More exposure to concepts like `XP practices <http://www.extremeprogramming.org/>`_ and other agile development methodologies
+* Practical experience based on changes to established open source projects
+
 Signatories
 ===========
 
