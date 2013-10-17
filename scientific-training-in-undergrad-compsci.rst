@@ -24,7 +24,7 @@ In the experience of the undersigned,
 the combined practice of source code revision control and intelligently managed testing
 enable a software developer to engage in the process of software development scientifically.
 
-They are both largely practical skills
+These are both largely practical skills
 that students should simply be expected to master and use
 as part of their practical work
 (in the same way that chemists and physicists
