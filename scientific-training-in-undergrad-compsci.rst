@@ -21,7 +21,7 @@ Rationale
    -- `Wikipedia article on Science <http://en.wikipedia.org/wiki/Science>`_.
 
 In the experience of the undersigned,
-the combined practice of source code control and intelligently managed testing
+the combined practice of source code revision control and intelligently managed testing
 enable a software developer to engage in the process of software development scientifically.
 
 They are both largely practical skills
@@ -30,26 +30,27 @@ as part of their practical work
 (in the same way that chemists and physicists
 are expected to keep lab records or do error analyses).
 
-Source Control
-==============
+Version Control
+===============
 
-Source control systems minimally enable developers to:
+Version control systems (also known as revision control or source control systems)
+minimally enable developers to:
 
 * Determine accurately what changes they have made while working on code
 * Record the history of changes made to code, and the reasons for those changes
 * Work effectively with others on code without unneccessary manual work on merging changes
 * Organize particular tasks into groups of changes
 
-Without source control, it is possible to work on code from day to day,
+Without version control, it is possible to work on code from day to day,
 with no clear awareness of what code one has changed,
 which amounts to moving from an unknown state to another unknown state.
 
-We are not aware of any effective software development teams that do not use modern source control systems.
+We are not aware of any effective software development teams that do not use modern revision control systems.
 They have become part of the minimal tools of a software developer.
 These systems are relatively easy to learn, and would improve the self-management of students
 even when working on simple projects during the course of their studies.
 
-We believe that using Source Control systems alone
+We believe that using Version Control Systems alone
 would actually increase the amount of time available to students over the course of their studies
 by increasing their efficiency in project work.
 
