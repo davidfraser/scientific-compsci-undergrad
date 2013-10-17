@@ -92,6 +92,37 @@ we feel that the experience of developing that TDD gives
 can transform individuals understanding of the flow of testing
 and the role that it plays in development.
 
+Implementation
+==============
+
+Version control and testing are both largely practical skills
+that students should simply be expected to master and use
+as part of their practical work
+(the way chemists and physicists are expected to keep lab records or do error analyses).
+
+For version control to work
+it'd have to be a required part of the practical submission process.
+This means updating the submission system [#f1]_
+and documentation on how to use it.
+Once people are using version control
+I imagine there'll be a myriad other uses for it.
+
+Testing is a bit trickier.
+I think that also needs to largely just be part of the way tutorials happen.
+A first step would be to decide on a testing harness
+and to mandate a list of cases to test alongside each tutorial exercise.
+UCT's tutorial submission system currently runs some sort of automated marking on submitted exercises [#f2]_.
+I'm not sure how one automatically marks tests.
+Probably checking code coverage would be a good start.
+
+.. [#f1] Although I think the rewrite would largely be
+   chopping out whatever the current upload code is,
+   setting up the repositories
+   adding repository hooks
+   so probably not a huge effort.
+
+.. [#f2] In retrospect this is amusingly back-to-front.
+
 Proposal
 ========
 
